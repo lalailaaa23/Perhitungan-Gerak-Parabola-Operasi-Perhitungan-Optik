@@ -1,4 +1,4 @@
-# Perhitungan Gerak Parabola & Operasi Perhitungan Optik
+# Penyelesaian Soal Perhitungan Fisika Matematika mengenai Gerak Parabola & Operasi Perhitungan Optik (menggunakan python dan Google Collabs)
 Nama : Nurlaila Sari
 NIM : 1207030031
 Jurusan : Fisika/Semester 5
